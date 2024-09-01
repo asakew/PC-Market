@@ -1,5 +1,5 @@
 # PC-Market
-Github: [PC-Market](https://github.com/PCMarket/PC-Market) project.
+Github: [PC-Market](https://github.com/asakew/PC-Market) project.
 
 ## Sayt Menyu:
 1. [ ] News
