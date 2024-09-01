@@ -1,5 +1,5 @@
 # PC-Market
-This is an example of a [PC-Market](https://github.com/PCMarket/PC-Market) project.
+Github: [PC-Market](https://github.com/PCMarket/PC-Market) project.
 
 ## Sayt Menyu:
 1. [ ] News
@@ -8,7 +8,7 @@ This is an example of a [PC-Market](https://github.com/PCMarket/PC-Market) proje
 4. [ ] Hardware
 5. [ ] Software
 6. [ ] Games
-7. [ ] User Authentications
+7. [ ] User Authentications (Login and Registration Pages)
 8. [ ] Forums
 9. [ ] Contacts
 
