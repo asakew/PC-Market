@@ -1,5 +1,6 @@
 # PC-Market
-Github: [PC-Market](https://github.com/asakew/PC-Market) project.
+Github: [PC-Market](https://asakew.github.io/akalarPC_uz/) project.
+- https://akalarpc.netlify.app/
 
 ## Sayt Menyu:
 1. [ ] News
